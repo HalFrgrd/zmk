@@ -9,7 +9,7 @@
 
 / {
 	model = "modular_kb";
-	compatible = "joric,modular_kb";
+	compatible = "hdog,modular_kb";
 
 	chosen {
 		zephyr,code-partition = &code_partition;

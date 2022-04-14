@@ -9,9 +9,9 @@
 			bindings = <
 	&kp ESC    &kp 1    &kp 2    &kp 3     &kp 4  	&kp 5  	&kp X
 	&kp TAB    &kp Q    &kp W    &kp E     &kp R  	&kp T  	&kp X
-	&kp LCTRL   &kp A    &kp S    &kp D     &kp F 	&kp G   &kp X  
+	&kp LCTRL  &kp A    &kp S    &kp D     &kp F 	&kp G   &kp X  
 	&kp LSHFT  &kp Z   	&kp X    &kp C     &kp V   	&kp B   &kp X
-	&kp LCTRL   &kp LWIN &kp LGUI &kp LALT  &kp X    &kp SPACE &kp RET
+	&kp LCTRL  &kp LWIN &kp LGUI &kp LALT  &kp X    &kp SPACE &kp RET
 			>;
 		};
 	};
