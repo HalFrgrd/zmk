@@ -1,0 +1,9 @@
+file_format: "1"
+id: modular_kb
+name: modular kb
+type: board
+arch: arm
+outputs:
+  - usb
+  - ble
+url: https://github.com/halfrgrd

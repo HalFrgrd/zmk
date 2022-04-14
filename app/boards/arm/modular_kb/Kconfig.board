@@ -1,0 +1,8 @@
+#  board configuration
+
+# Copyright (c) 2020 The ZMK Contributors
+# SPDX-License-Identifier: MIT
+
+config BOARD_MODULAR_KB
+	bool "modular_kb"
+	depends on SOC_NRF52840_QIAA

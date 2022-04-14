@@ -1,0 +1,31 @@
+# Copyright (c) 2020 The ZMK Contributors
+# SPDX-License-Identifier: MIT
+
+if BOARD_MODULAR_KB
+
+config BOARD
+	default "modular_kb"
+
+config USB_NRFX
+	default y
+
+config USB_DEVICE_STACK
+	default y
+
+config BT_CTLR
+	default BT
+
+config ZMK_BLE
+	default y
+
+config ZMK_KEYBOARD_NAME
+	default "Modular KB"
+
+config ZMK_KSCAN_MATRIX_POLLING
+    default y
+
+config ZMK_USB
+	default y
+
+endif # BOARD_MODULAR_KB
+
