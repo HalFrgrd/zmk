@@ -19,7 +19,7 @@ config ZMK_BLE
 	default y
 
 config ZMK_KEYBOARD_NAME
-	default "Modular KB"
+	default "HF Modular KB"
 
 config ZMK_KSCAN_MATRIX_POLLING
     default y
