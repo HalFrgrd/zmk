@@ -3,6 +3,7 @@
     "*.overlay": "dts"
 },
   "python.formatting.provider": "black",
+<<<<<<< HEAD
   "[c]": {
     "editor.formatOnSave": true
   },
@@ -19,3 +20,8 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   }
 }
+=======
+"cmake.sourceDirectory": "${workspaceFolder}/app",
+"nrf-connect.toolchain.path": "${nrf-connect.toolchain:2.1.1}"
+}
+>>>>>>> somecommt
