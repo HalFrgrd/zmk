@@ -24,7 +24,7 @@ config ZMK_KEYBOARD_NAME
 config ZMK_KSCAN_MATRIX_POLLING
     default y
 
-config ZMK_USB
+config ZMK_USB  
 	default y
 
 endif # BOARD_MODULAR_KB
