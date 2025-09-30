@@ -6,6 +6,9 @@
 /zmk-config
 /build
 
+
+app/build_dongle
+
 # macOS
 *.DS_Store
 
